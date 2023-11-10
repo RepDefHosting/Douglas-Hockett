@@ -2,22 +2,22 @@
 templateKey: site-data
 published: false
 name: Douglas Hockett
-jobTitle: "{{job_title}}"
+jobTitle: Philanthropically, Douglas Doug Hockett
 siteName: Douglas Hockett
-siteUrl: https://{{site_url}}
+siteUrl: https://www.douglashockett.com
 siteAnalytics: null
 favicon: /img/favicon.png
-fallbackImage: /img/headshot.jpg
+fallbackImage: /img/douglas-doug-hockett-serves-as-a-financial-advisor-at-stifel..jpeg
 socialLinks:
   twitter:
-    url: ""
-    show: false
+    url: https://twitter.com/hockett_doug
+    show: true
   facebook:
     url: ""
     show: false
   linkedin:
-    url: ""
-    show: false
+    url: https://www.linkedin.com/in/doug-hockett
+    show: true
   pinterest:
     url: ""
     show: false
